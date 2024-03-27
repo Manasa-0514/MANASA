@@ -150,6 +150,17 @@ body {
     box-shadow: 0 0 20px #0ef;
 }
 
+
+    .abt-res {
+        float: right;
+        margin-left: 10px; /* Optional: Add some space between the image and the content */
+    }
+    /* Clear floats */
+    .clear {
+        clear: both;
+    }
+
+
 .btn-box {
     display: inline-block;
     padding: 12px 28px;
