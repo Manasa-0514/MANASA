@@ -151,14 +151,7 @@ body {
 }
 
 
-    .abt-res {
-        float: right;
-        margin-left: 10px; /* Optional: Add some space between the image and the content */
-    }
-    /* Clear floats */
-    .clear {
-        clear: both;
-    }
+    
 
 
 .btn-box {
